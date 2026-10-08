@@ -14,9 +14,9 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Jiashen Wang
+title: "Jiashen Wang"
 
-tagline: "Analog & Mixed-Signal IC Design" # it will display as the subtitle
+tagline: "Analog & Mixed-Signal IC Design" 
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
